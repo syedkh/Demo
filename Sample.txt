@@ -1,2 +1,2 @@
-This is some text
+This is som text
 this line is added in test branch
